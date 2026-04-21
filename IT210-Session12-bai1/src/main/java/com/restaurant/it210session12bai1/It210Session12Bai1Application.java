@@ -12,3 +12,7 @@ public class It210Session12Bai1Application {
     }
 
 }
+
+// Phần 1 – Phân tích
+// Vì sao spring-boot-starter-web được gọi là “Starter”?
+//Thay vì phải tự đi thêm từng thư viện nhỏ lẻ.Spring Boot gom hết lại thành 1 “starter” và chỉ cần thêm 1 dependency là chạy được
